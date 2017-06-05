@@ -22,6 +22,11 @@ namespace entites
                 Id = 2,
                 Age = 22,
                 Name = "嘿嘿"
+            },
+            new UserInfo() {
+                Id=3,
+                Age = 23,
+                Name = "拜拜"
             }
         };
 
